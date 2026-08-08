@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rachel 👋
 
-<!--
-**rachel-zhang7/rachel-zhang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product builder working at the intersection of AI, advertising, commerce, and creativity.
 
-Here are some ideas to get you started:
+My background spans startups and big tech, across product, technology, and go-to-market. I'm especially interested in turning emerging AI capabilities into products people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Building
+
+Currently building and experimenting with AI products, agents, and tools – going deeper from product ideation to design, engineering, launch, and iteration.
+
+### Areas I know & explore
+
+AI Products · AdTech · Creative AI · Commerce · Agents · Product Growth
+
+### Find me
+
+[LinkedIn] https://www.linkedin.com/in/rachel-zhang/ 我· Personal site coming soon
 -->
